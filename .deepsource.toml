@@ -6,8 +6,6 @@ name = "javascript"
   [analyzers.meta]
   plugins = ["react"]
   environment = [
-    "nodejs",
-    "mongo",
-    "jquery",
+    "vitest",
     "browser"
   ]
